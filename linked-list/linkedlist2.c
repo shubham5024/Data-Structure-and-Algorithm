@@ -7,7 +7,7 @@ struct node {
    int data;
    int key;
    struct node *next;
-};
+}
 
 struct node *head = NULL;
 struct node *current = NULL;
